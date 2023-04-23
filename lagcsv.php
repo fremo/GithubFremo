@@ -14,8 +14,6 @@ if (!$conn) {
 
 echo "<hr>";
 
-
-
 $sokestreng = "
     SELECT 
             *

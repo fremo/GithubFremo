@@ -1,9 +1,9 @@
 <?php
 // alle viktige DB-data
-$servername = "overdalsveie.mysql.domeneshop.no";
-$username = "overdalsveie";
-$password = "PoseNote+1";
-$dbname = "overdalsveie";
+$servername = "xxx";
+$username = "xxx";
+$password = "xxx";
+$dbname = "xxx";
 ?>
 
 <?php

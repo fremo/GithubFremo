@@ -1,9 +1,9 @@
 <?php
 
-$servername = "overdalsveie.mysql.domeneshop.no";
-$username = "overdalsveie";
-$password = "PoseNote+1";
-$dbname = "overdalsveie";
+$servername = "xxx";
+$username = "xxx";
+$password = "xxx+1";
+$dbname = "xxx";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
